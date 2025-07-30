@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@utkarsh72692128" target="blank"><img src="https://img.shields.io/twitter/follow/@utkarsh72692128?logo=twitter&style=for-the-badge" alt="@utkarsh72692128" /></a> </p>
 
-- 🔭 I’m currently working on **Retail Sales Trends**
+- 🔭 I’m currently working on **"India on the Global Stage: A Data-Driven Profile of Progress, Challenges, and Migration Trends"**
 
 - 🌱 I’m currently learning **Exploring data visualization and insight storytelling with Jupyter Notebooks.**
 
